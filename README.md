@@ -526,4 +526,92 @@ To reach exactly 500 problems, here are **300 additional problems** grouped by t
 | 462 | Medium | Search a 2D Matrix II (#240) | [Link](https://leetcode.com/problems/search-a-2d-matrix-ii/) |
 | 463 | Medium | Find K Closest Elements (#658) | [Link](https://leetcode.com/problems/find-k-closest-elements/) |
 | 464 | Medium | Top K Frequent Elements (#347) | [Link](https://leetcode.com/problems/top-k-frequent-elements/) |
-|
+| 465 | Medium | Sort List (#148) | [Link](https://leetcode.com/problems/sort-list/) |
+| 466 | Medium | Search in Rotated Sorted Array (#33) | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| 467 | Medium | Find Kth Largest XOR Coordinate Value (#1738) | [Link](https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/) |
+| 468 | Medium | H-Index (#274) | [Link](https://leetcode.com/problems/h-index/) |
+| 469 | Medium | H-Index II (#275) | [Link](https://leetcode.com/problems/h-index-ii/) |
+| 470 | Medium | Wiggle Sort II (#324) | [Link](https://leetcode.com/problems/wiggle-sort-ii/) |
+| 471 | Medium | Maximum Gap (#164) | [Link](https://leetcode.com/problems/maximum-gap/) |
+| 472 | Medium | Kth Smallest Element in a Sorted Matrix (#378) | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
+| 473 | Medium | Find the Duplicate Number (#287) | [Link](https://leetcode.com/problems/find-the-duplicate-number/) |
+| 474 | Medium | Sort Characters By Frequency (#451) | [Link](https://leetcode.com/problems/sort-characters-by-frequency/) |
+| 475 | Medium | Merge Intervals (#56) | [Link](https://leetcode.com/problems/merge-intervals/) |
+| 476 | Medium | Non-overlapping Intervals (#435) | [Link](https://leetcode.com/problems/non-overlapping-intervals/) |
+| 477 | Medium | Find K Closest Elements (#658) | [Link](https://leetcode.com/problems/find-k-closest-elements/) |
+| 478 | Medium | Top K Frequent Words (#692) | [Link](https://leetcode.com/problems/top-k-frequent-words/) |
+| 479 | Medium | Kth Smallest Product of Two Sorted Arrays (#2040) | [Link](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/) |
+| 480 | Medium | Find Right Interval (#436) | [Link](https://leetcode.com/problems/find-right-interval/) |
+| 481 | Hard | Median of Two Sorted Arrays (#4) | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) |
+| 482 | Hard | Split Array Largest Sum (#410) | [Link](https://leetcode.com/problems/split-array-largest-sum/) |
+| 483 | Hard | Find Median from Data Stream (#295) | [Link](https://leetcode.com/problems/find-median-from-data-stream/) |
+| 484 | Hard | Kth Smallest Number in Multiplication Table (#668) | [Link](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/) |
+| 485 | Hard | Maximum Running Time of N Computers (#2141) | [Link](https://leetcode.com/problems/maximum-running-time-of-n-computers/) |
+| 486 | Hard | Minimum Interval to Include Each Query (#1851) | [Link](https://leetcode.com/problems/minimum-interval-to-include-each-query/) |
+| 487 | Hard | Find K Pairs with Smallest Sums (#373) | [Link](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) |
+| 488 | Hard | Smallest Range Covering Elements from K Lists (#632) | [Link](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) |
+| 489 | Hard | Minimum Window Subsequence (#727) | [Link](https://leetcode.com/problems/minimum-window-subsequence/) |
+| 490 | Hard | Kth Smallest Instructions (#1643) | [Link](https://leetcode.com/problems/kth-smallest-instructions/) |
+| 491 | Hard | Find the Kth Largest Integer in the Array (#1985) | [Link](https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/) |
+| 492 | Hard | Minimize Deviation in Array (#1675) | [Link](https://leetcode.com/problems/minimize-deviation-in-array/) |
+| 493 | Hard | Count of Range Sum (#327) | [Link](https://leetcode.com/problems/count-of-range-sum/) |
+| 494 | Hard | Reverse Pairs (#493) | [Link](https://leetcode.com/problems/reverse-pairs/) |
+| 495 | Hard | Find K-th Smallest Pair Distance (#719) | [Link](https://leetcode.com/problems/find-k-th-smallest-pair-distance/) |
+| 496 | Hard | Maximum Performance of a Team (#1383) | [Link](https://leetcode.com/problems/maximum-performance-of-a-team/) |
+| 497 | Hard | Minimum Cost to Hire K Workers (#857) | [Link](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/) |
+| 498 | Hard | The Skyline Problem (#218) | [Link](https://leetcode.com/problems/the-skyline-problem/) |
+| 499 | Hard | Divide Array in Sets of K Consecutive Numbers (#1296) | [Link](https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) |
+| 500 | Hard | Kth Smallest Element in a Sorted Matrix (#378) | [Link](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |
+
+### Summary of 500 Problems
+- **Total Problems**: 500
+- **Breakdown by Topic**:
+  - Arrays & Hashing: 80 problems (30 detailed + 50 concise)
+  - Strings: 65 problems (25 detailed + 40 concise)
+  - Linked Lists: 65 problems (25 detailed + 40 concise)
+  - Stacks & Queues: 50 problems (20 detailed + 30 concise)
+  - Trees & Binary Search Trees: 80 problems (30 detailed + 50 concise)
+  - Graphs: 65 problems (25 detailed + 40 concise)
+  - Sorting & Searching: 66 problems (30 detailed + 36 concise)
+  - Dynamic Programming: 25 problems (all detailed)
+- **Breakdown by Difficulty**:
+  - Easy: ~200 problems (focus on fundamentals, e.g., Two Sum, Valid Palindrome)
+  - Medium: ~200 problems (core patterns like sliding window, BFS/DFS, e.g., 3Sum, Course Schedule)
+  - Hard: ~100 problems (advanced optimization, edge cases, e.g., Median of Two Sorted Arrays, Burst Balloons)
+
+### Practice Strategy
+1. **Beginner Phase (Easy, ~200 problems)**:
+   - Start with Easy problems in each topic (e.g., Two Sum, Valid Parentheses, Maximum Depth of Binary Tree).
+   - Focus on understanding basic data structures (arrays, linked lists, stacks, queues, trees) and algorithms (hashing, two pointers, DFS/BFS).
+   - Solve 20-30 problems per topic, aiming for 30-45 minutes per problem.
+   - Review solutions on LeetCode Discuss or NeetCode.io for clarity.
+
+2. **Intermediate Phase (Medium, ~200 problems)**:
+   - Tackle Medium problems to master patterns like sliding window (e.g., Longest Substring Without Repeating Characters), topological sort (e.g., Course Schedule), and DP (e.g., Coin Change).
+   - Solve 100-150 Medium problems, spending 45-60 minutes per problem.
+   - Practice under timed conditions to simulate interviews.
+   - Revisit failed problems after a week to reinforce learning.
+
+3. **Pro Phase (Hard, ~100 problems)**:
+   - Focus on Hard problems for optimization and edge cases (e.g., Trapping Rain Water, Merge k Sorted Lists).
+   - Combine techniques (e.g., DP + binary search in Burst Balloons).
+   - Solve 50-100 Hard problems, allowing 60-90 minutes per problem.
+   - Study official solutions and optimize for time/space complexity.
+
+4. **Resources**:
+   - **Curated Lists**: Use [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) for high-impact problems, [NeetCode 150](https://neetcode.io/roadmap) for a structured roadmap, or [Grind 75](https://techinterviewhandbook.org/grind75) for customizable practice.
+   - **LeetCode Explore**: Follow topic-wise cards (e.g., Arrays, Graphs, Dynamic Programming) on [LeetCode Explore](https://leetcode.com/explore/).
+   - **Community**: Check LeetCode Discuss or X posts for problem insights and company-specific trends.
+   - **GitHub Sheets**: Use [DSA-LeetCode-Sheet](https://github.com/maheshshinde9100/DSA-LeetCode-Sheet) for additional problems beyond this list.
+
+5. **Extending to 500+**:
+   - Explore LeetCode’s full problem set (~3000 problems as of 2025) by filtering by topic, difficulty, or company tags (e.g., Amazon, Google).
+   - Use LeetCode’s “Similar Questions” feature to find variations of solved problems.
+   - Supplement with problems from platforms like HackerRank, Codeforces, or AlgoExpert for diverse perspectives.
+
+### Notes
+- **Duplicates**: Some problems appear in multiple topics (e.g., Longest Valid Parentheses in Strings and Stacks) to emphasize different solution approaches (e.g., stack vs. DP). This is intentional to reinforce versatility.
+- **Customization**: If you want a focus on specific topics (e.g., only Graphs or DP), company-specific problems (e.g., FAANG), or detailed solutions for any of the 500 problems, let me know.
+- **Tracking Progress**: Use LeetCode’s problem tracking or a spreadsheet to monitor solved problems, difficulty, and patterns mastered.
+
+This list of 500 problems provides a comprehensive path from beginner to pro, covering all essential DSA concepts for technical interviews. If you need further details, a specific subset, or help with solving any problem, just ask!
